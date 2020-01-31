@@ -16,3 +16,5 @@ $.get('https://opentdb.com/api_category.php')
 })
     
 .catch(e=> console.error(e))
+
+//bruh delte after html grabbed
