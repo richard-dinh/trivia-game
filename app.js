@@ -14,7 +14,5 @@ $.get('https://opentdb.com/api_category.php')
   for(i=0;i>length.trivia_categories;i++)
   let trivia_categories = [i;]
 })
-
-
     
 .catch(e=> console.error(e))
